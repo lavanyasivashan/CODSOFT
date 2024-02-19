@@ -1,0 +1,28 @@
+[
+    {
+      "role": "CYBER SECURITY",
+      "organisation":"",
+      "startDate": "Nasscom",
+      "endDate": "Future Skills",
+      "experiences": ["Completed with 95% score"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "NPTEL SWAYAM",
+      "organisation": "",
+      "startDate": "Certification",
+      "endDate": "Exams",
+      "experiences": ["Effective writing","DBMS","Programming in Problem-Solving"],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "SMART INDIA HACKATHON",
+      "organisation": "",
+      "startDate": "Participation",
+      "endDate": "",
+      "experiences": [
+        "Selected among Top 30 teams in college"
+      ],
+      "imageSrc": "history/netflix.png"
+    }
+  ]

@@ -1,0 +1,18 @@
+[
+    {
+      "title": "PHARMACY WEBSITE",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to help users to buy medical supply easily",
+      "skills": ["React", "Node","html","css"],
+      
+      "source": "https://github.com/lavanyasivashan/cureall"
+    },
+    {
+      "title": "VEHICLE REPAIR HUB",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to help users to repair their vehicle at ease.",
+      "skills": ["React", "Redux", "Node","Rest api"],
+      
+      "source": "https://github.com/lavanyasivashan/AppDevelopment"
+    }
+  ]

@@ -1,0 +1,39 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "./Experience/images/react.png"
+      
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "./Experience/images/css.jpg"
+    },
+    {
+      "title": "REACT",
+      "imageSrc": "./Experience/images/react.png"
+    },
+    {
+      "title": "JAVA",
+      "imageSrc": "./Experience/images/java.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "./Experience/images/c++.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "./Experience/images/sql.jpg"
+    },
+    {
+      "title": "RDBMS",
+      "imageSrc": "./Experience/images/rdbms.webp"
+    },
+    {
+        "title": "AWS",
+        "imageSrc": "./Experience/images/aws-logo.png"
+      },
+      {
+        "title": "SELENIUM",
+        "imageSrc": "./Experience/images/selenium.jpg"
+      }
+  ]
